@@ -1,15 +1,15 @@
 {
-  "main.css": "https://awlayton.github.io/metadata-app/static/css/main.50b184f8.chunk.css",
-  "main.js": "https://awlayton.github.io/metadata-app/static/js/main.747ee9b8.chunk.js",
-  "main.js.map": "https://awlayton.github.io/metadata-app/static/js/main.747ee9b8.chunk.js.map",
-  "static/css/1.85e96eae.chunk.css": "https://awlayton.github.io/metadata-app/static/css/1.85e96eae.chunk.css",
-  "static/js/1.90105a59.chunk.js": "https://awlayton.github.io/metadata-app/static/js/1.90105a59.chunk.js",
-  "static/js/1.90105a59.chunk.js.map": "https://awlayton.github.io/metadata-app/static/js/1.90105a59.chunk.js.map",
-  "runtime~main.js": "https://awlayton.github.io/metadata-app/static/js/runtime~main.81f75e13.js",
-  "runtime~main.js.map": "https://awlayton.github.io/metadata-app/static/js/runtime~main.81f75e13.js.map",
-  "static/css/main.50b184f8.chunk.css.map": "https://awlayton.github.io/metadata-app/static/css/main.50b184f8.chunk.css.map",
-  "static/css/1.85e96eae.chunk.css.map": "https://awlayton.github.io/metadata-app/static/css/1.85e96eae.chunk.css.map",
-  "index.html": "https://awlayton.github.io/metadata-app/index.html",
-  "precache-manifest.cb42ef6edaa76d5472e52010ebc7c847.js": "https://awlayton.github.io/metadata-app/precache-manifest.cb42ef6edaa76d5472e52010ebc7c847.js",
-  "service-worker.js": "https://awlayton.github.io/metadata-app/service-worker.js"
+  "main.css": "/CONTxT/static/css/main.50b184f8.chunk.css",
+  "main.js": "/CONTxT/static/js/main.fdbba582.chunk.js",
+  "main.js.map": "/CONTxT/static/js/main.fdbba582.chunk.js.map",
+  "static/css/1.85e96eae.chunk.css": "/CONTxT/static/css/1.85e96eae.chunk.css",
+  "static/js/1.6e98e925.chunk.js": "/CONTxT/static/js/1.6e98e925.chunk.js",
+  "static/js/1.6e98e925.chunk.js.map": "/CONTxT/static/js/1.6e98e925.chunk.js.map",
+  "runtime~main.js": "/CONTxT/static/js/runtime~main.1ea5ac87.js",
+  "runtime~main.js.map": "/CONTxT/static/js/runtime~main.1ea5ac87.js.map",
+  "static/css/main.50b184f8.chunk.css.map": "/CONTxT/static/css/main.50b184f8.chunk.css.map",
+  "static/css/1.85e96eae.chunk.css.map": "/CONTxT/static/css/1.85e96eae.chunk.css.map",
+  "index.html": "/CONTxT/index.html",
+  "precache-manifest.1a605ab27bd4e167e30a072c03057af8.js": "/CONTxT/precache-manifest.1a605ab27bd4e167e30a072c03057af8.js",
+  "service-worker.js": "/CONTxT/service-worker.js"
 }

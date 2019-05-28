@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://awlayton.github.io/metadata-app/precache-manifest.cb42ef6edaa76d5472e52010ebc7c847.js"
+  "/CONTxT/precache-manifest.1a605ab27bd4e167e30a072c03057af8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://awlayton.github.io/metadata-app/index.html", {
+workbox.routing.registerNavigationRoute("/CONTxT/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
