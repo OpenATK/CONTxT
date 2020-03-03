@@ -1,15 +1,25 @@
 {
-  "main.css": "/CONTxT/static/css/main.50b184f8.chunk.css",
-  "main.js": "/CONTxT/static/js/main.fdbba582.chunk.js",
-  "main.js.map": "/CONTxT/static/js/main.fdbba582.chunk.js.map",
-  "static/css/1.85e96eae.chunk.css": "/CONTxT/static/css/1.85e96eae.chunk.css",
-  "static/js/1.6e98e925.chunk.js": "/CONTxT/static/js/1.6e98e925.chunk.js",
-  "static/js/1.6e98e925.chunk.js.map": "/CONTxT/static/js/1.6e98e925.chunk.js.map",
-  "runtime~main.js": "/CONTxT/static/js/runtime~main.1ea5ac87.js",
-  "runtime~main.js.map": "/CONTxT/static/js/runtime~main.1ea5ac87.js.map",
-  "static/css/main.50b184f8.chunk.css.map": "/CONTxT/static/css/main.50b184f8.chunk.css.map",
-  "static/css/1.85e96eae.chunk.css.map": "/CONTxT/static/css/1.85e96eae.chunk.css.map",
-  "index.html": "/CONTxT/index.html",
-  "precache-manifest.1a605ab27bd4e167e30a072c03057af8.js": "/CONTxT/precache-manifest.1a605ab27bd4e167e30a072c03057af8.js",
-  "service-worker.js": "/CONTxT/service-worker.js"
+  "files": {
+    "main.css": "/CONTxT/static/css/main.21fc8e05.chunk.css",
+    "main.js": "/CONTxT/static/js/main.6ed63d5a.chunk.js",
+    "main.js.map": "/CONTxT/static/js/main.6ed63d5a.chunk.js.map",
+    "runtime-main.js": "/CONTxT/static/js/runtime-main.1c5bd2c8.js",
+    "runtime-main.js.map": "/CONTxT/static/js/runtime-main.1c5bd2c8.js.map",
+    "static/css/2.74590b8b.chunk.css": "/CONTxT/static/css/2.74590b8b.chunk.css",
+    "static/js/2.0d6d6b05.chunk.js": "/CONTxT/static/js/2.0d6d6b05.chunk.js",
+    "static/js/2.0d6d6b05.chunk.js.map": "/CONTxT/static/js/2.0d6d6b05.chunk.js.map",
+    "index.html": "/CONTxT/index.html",
+    "precache-manifest.23450a1e46880b83e25fbee6c4e9e975.js": "/CONTxT/precache-manifest.23450a1e46880b83e25fbee6c4e9e975.js",
+    "service-worker.js": "/CONTxT/service-worker.js",
+    "static/css/2.74590b8b.chunk.css.map": "/CONTxT/static/css/2.74590b8b.chunk.css.map",
+    "static/css/main.21fc8e05.chunk.css.map": "/CONTxT/static/css/main.21fc8e05.chunk.css.map",
+    "static/js/2.0d6d6b05.chunk.js.LICENSE.txt": "/CONTxT/static/js/2.0d6d6b05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5bd2c8.js",
+    "static/css/2.74590b8b.chunk.css",
+    "static/js/2.0d6d6b05.chunk.js",
+    "static/css/main.21fc8e05.chunk.css",
+    "static/js/main.6ed63d5a.chunk.js"
+  ]
 }
